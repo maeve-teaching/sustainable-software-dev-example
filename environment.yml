@@ -1,0 +1,13 @@
+name: hypot-dev
+
+dependencies:
+# These dependencies are very useful for packaging and testing your code
+  - python=3.12
+  - pytest
+  - setuptools
+  - blackd
+  - isort
+# Remove these/replace these ones:
+  - numpy
+  - matplotlib
+  - pandas
